@@ -1,3 +1,4 @@
 = Welcome
+:tags: page
 
 This is the first post of the HubPress-powered subsection of _The Hornery_.
